@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Client_Industry_Finance</fullName>
+        <categories>Client,Industry</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Industry: Finance</shortDescription>
+        <value>Finance</value>
+    </labels>
+    <labels>
+        <fullName>Client_Industry_Healthcare</fullName>
+        <categories>Client,Industry</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Industry: Healthcare</shortDescription>
+        <value>Healthcare</value>
+    </labels>
+    <labels>
+        <fullName>Client_Industry_Retail</fullName>
+        <categories>Client,Industry</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Industry: Retail</shortDescription>
+        <value>Retail</value>
+    </labels>
+    <labels>
+        <fullName>Client_Industry_Tech</fullName>
+        <categories>Client,Industry</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Client Industry: Tech</shortDescription>
+        <value>Tech</value>
+    </labels>
+    <labels>
+        <fullName>Invoice_Status_Draft</fullName>
+        <categories>Invoice,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invoice Status: Draft</shortDescription>
+        <value>Draft</value>
+    </labels>
+    <labels>
+        <fullName>Invoice_Status_Overdue</fullName>
+        <categories>Invoice,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invoice Status: Overdue</shortDescription>
+        <value>Overdue</value>
+    </labels>
+    <labels>
+        <fullName>Invoice_Status_Paid</fullName>
+        <categories>Invoice,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invoice Status: Paid</shortDescription>
+        <value>Paid</value>
+    </labels>
+    <labels>
+        <fullName>Invoice_Status_Sent</fullName>
+        <categories>Invoice,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Invoice Status: Sent</shortDescription>
+        <value>Sent</value>
+    </labels>
+    <labels>
+        <fullName>Project_Priority_High</fullName>
+        <categories>Project,Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Project Priority: High</shortDescription>
+        <value>High</value>
+    </labels>
+    <labels>
+        <fullName>Project_Priority_Low</fullName>
+        <categories>Project,Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Project Priority: Low</shortDescription>
+        <value>Low</value>
+    </labels>
+    <labels>
+        <fullName>Project_Priority_Medium</fullName>
+        <categories>Project,Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Project Priority: Medium</shortDescription>
+        <value>Medium</value>
+    </labels>
+    <labels>
+        <fullName>Project_Status_Active</fullName>
+        <categories>Project,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Project Status: Active</shortDescription>
+        <value>Active</value>
+    </labels>
+    <labels>
+        <fullName>Project_Status_Closed</fullName>
+        <categories>Project,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Project Status: Closed</shortDescription>
+        <value>Closed</value>
+    </labels>
+    <labels>
+        <fullName>Project_Status_Planned</fullName>
+        <categories>Project,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Project Status: Planned</shortDescription>
+        <value>Planned</value>
+    </labels>
+    <labels>
+        <fullName>Relationship_Clients_Managed_By_User</fullName>
+        <categories>Relationship,User,Client</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Related list label on User for Clients where they are Account Manager</shortDescription>
+        <value>Clients Managed By User</value>
+    </labels>
+    <labels>
+        <fullName>Relationship_Invoices_For_Client</fullName>
+        <categories>Relationship,Client,Invoice</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Related list label on Client for related Invoices</shortDescription>
+        <value>Invoices For Client</value>
+    </labels>
+    <labels>
+        <fullName>Relationship_Invoices_For_Project</fullName>
+        <categories>Relationship,Project,Invoice</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Related list label on Project for related Invoices</shortDescription>
+        <value>Invoices For Project</value>
+    </labels>
+    <labels>
+        <fullName>Relationship_Projects_Managed_By_User</fullName>
+        <categories>Relationship,User,Project</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Related list label on User for Projects where they are Manager</shortDescription>
+        <value>Projects Managed By User</value>
+    </labels>
+    <labels>
+        <fullName>Relationship_Tasks_Assigned_To_User</fullName>
+        <categories>Relationship,User,Task</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Related list label on User for Tasks assigned to them</shortDescription>
+        <value>Tasks Assigned To User</value>
+    </labels>
+    <labels>
+        <fullName>Relationship_Tasks_Related_To_Project</fullName>
+        <categories>Relationship,Project,Task</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Related list label on Project for related Tasks</shortDescription>
+        <value>Tasks Related To Project</value>
+    </labels>
+    <labels>
+        <fullName>Task_Priority_High</fullName>
+        <categories>Task,Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Priority: High</shortDescription>
+        <value>High</value>
+    </labels>
+    <labels>
+        <fullName>Task_Priority_Low</fullName>
+        <categories>Task,Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Priority: Low</shortDescription>
+        <value>Low</value>
+    </labels>
+    <labels>
+        <fullName>Task_Priority_Medium</fullName>
+        <categories>Task,Priority</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Priority: Medium</shortDescription>
+        <value>Medium</value>
+    </labels>
+    <labels>
+        <fullName>Task_Status_Completed</fullName>
+        <categories>Task,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Status: Completed</shortDescription>
+        <value>Completed</value>
+    </labels>
+    <labels>
+        <fullName>Task_Status_InProgress</fullName>
+        <categories>Task,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Status: In Progress</shortDescription>
+        <value>In Progress</value>
+    </labels>
+    <labels>
+        <fullName>Task_Status_NotStarted</fullName>
+        <categories>Task,Status</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Task Status: Not Started</shortDescription>
+        <value>Not Started</value>
+    </labels>
+    <labels>
+        <fullName>TestLabel</fullName>
+        <categories>General</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>A test custom label</shortDescription>
+        <value>This is a test label</value>
+    </labels>
+</CustomLabels>
